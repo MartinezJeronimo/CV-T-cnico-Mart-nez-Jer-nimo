@@ -4,14 +4,17 @@ Cv Web Martinez Jeronimo
 Que es?
 Se trata de una página web simple donde presento mi perfil profesional, tecnologías y proyectos.
 
-Tecnologias utilizadas:
--HTML
--CSS
+-Tecnologias utilizadas:
+- HTML
+- CSS
 
-De que esta integrado este CV Tecnico?
+-De que esta integrado este CV Tecnico?
 
--Presentación de perfil
+- Presentación de perfil
 - Lista de tecnologías
 - Sección de proyectos con
 enlaces
 - Información de contacto
+
+
+Martinez Jeronimo 2026
